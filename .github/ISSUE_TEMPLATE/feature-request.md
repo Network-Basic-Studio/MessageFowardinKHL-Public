@@ -2,7 +2,7 @@
 name: Feature request
 about: 我建议这样做
 title: 在这里为你的新功能提议写个标题
-labels: ''
+labels: 新功能
 assignees: ''
 
 ---

@@ -2,7 +2,7 @@
 name: BUG!Fix it
 about: 糟了，有错误发生
 title: 请在此为这个issue写个名字
-labels: ''
+labels: BUG
 assignees: XiaoMouz
 
 ---
