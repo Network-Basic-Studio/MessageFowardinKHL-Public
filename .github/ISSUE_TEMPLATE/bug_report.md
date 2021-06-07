@@ -1,38 +1,27 @@
 ---
-name: Bug report
-about: Create a report to help us improve
-title: ''
-labels: ''
-assignees: ''
+name: come on~ 指正代码错误
+about: 小伙子，你还是too young啊，让我教你写代码~
+title: 请在此写出哪个方案与哪个项目
+labels: 我来教你写代码
+assignees: XiaoMouz
 
 ---
 
-**Describe the bug**
-A clear and concise description of what the bug is.
+- [x] 我确认在Issues列表中并其它相同建议以及该段代码未被注释
 
-**To Reproduce**
-Steps to reproduce the behavior:
-1. Go to '...'
-2. Click on '....'
-3. Scroll down to '....'
-4. See error
+## 这是语法错误还是屎山代码呢？在哪里？
+- [x] 语法错误
+- [x] 屎山代码
+```C#
+code //起始行数
+```
 
-**Expected behavior**
-A clear and concise description of what you expected to happen.
+## 那么要如何更改？
+```C#
+code
+```
+## 为何要这样修改？
+- （官方文档或说明缘由）
 
-**Screenshots**
-If applicable, add screenshots to help explain your problem.
-
-**Desktop (please complete the following information):**
- - OS: [e.g. iOS]
- - Browser [e.g. chrome, safari]
- - Version [e.g. 22]
-
-**Smartphone (please complete the following information):**
- - Device: [e.g. iPhone6]
- - OS: [e.g. iOS8.1]
- - Browser [e.g. stock browser, safari]
- - Version [e.g. 22]
-
-**Additional context**
-Add any other context about the problem here.
+## 还有什么呢？
+- （请在这里写出附加内容）
